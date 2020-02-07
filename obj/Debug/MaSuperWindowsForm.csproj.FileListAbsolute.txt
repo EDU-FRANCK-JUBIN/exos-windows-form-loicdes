@@ -1,0 +1,11 @@
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\bin\Debug\MaSuperWindowsForm.exe.config
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\bin\Debug\MaSuperWindowsForm.exe
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\bin\Debug\MaSuperWindowsForm.pdb
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.csprojAssemblyReference.cache
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.Form1.resources
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.Properties.Resources.resources
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.csproj.GenerateResource.cache
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.exe
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.pdb
+C:\Users\tii_l\source\repos\WindowsForm\MaSuperWindowsForm\obj\Debug\MaSuperWindowsForm.Calculatrice.resources
